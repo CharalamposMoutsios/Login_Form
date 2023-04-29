@@ -1,2 +1,1 @@
-# Login_Form
-Creates a login form with a username and password and a submit button.(tkinter)
+# login form with a username and password field, and a submit button using the tkinter module
